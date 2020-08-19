@@ -1,9 +1,11 @@
 package com.hrban.controller;
 
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
-@Controller
+@RestController
+//跨域的第二种方式 注解
+//@CrossOrigin(origins = "*", allowedHeaders = "*", methods = {}, allowCredentials = "true")
 public class TestController {
 
     /**
