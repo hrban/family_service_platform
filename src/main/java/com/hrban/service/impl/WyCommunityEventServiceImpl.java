@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyCommunityEvent;
 import com.hrban.mapper.WyCommunityEventMapper;
-import com.hrban.service.WyCommunityEventService;
+import com.hrban.service.base.WyCommunityEventService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

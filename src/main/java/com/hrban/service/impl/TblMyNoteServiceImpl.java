@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblMyNote;
 import com.hrban.mapper.TblMyNoteMapper;
-import com.hrban.service.TblMyNoteService;
+import com.hrban.service.base.TblMyNoteService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

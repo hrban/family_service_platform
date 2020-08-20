@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyPropertyMoneyDist;
 import com.hrban.mapper.FyPropertyMoneyDistMapper;
-import com.hrban.service.FyPropertyMoneyDistService;
+import com.hrban.service.base.FyPropertyMoneyDistService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyShareUserDetail;
 import com.hrban.mapper.FyShareUserDetailMapper;
-import com.hrban.service.FyShareUserDetailService;
+import com.hrban.service.base.FyShareUserDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

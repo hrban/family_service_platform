@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyRefundSub;
 import com.hrban.mapper.FyRefundSubMapper;
-import com.hrban.service.FyRefundSubService;
+import com.hrban.service.base.FyRefundSubService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

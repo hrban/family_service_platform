@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblVod;
 import com.hrban.mapper.TblVodMapper;
-import com.hrban.service.TblVodService;
+import com.hrban.service.base.TblVodService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

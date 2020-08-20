@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FcUnit;
 import com.hrban.mapper.FcUnitMapper;
-import com.hrban.service.FcUnitService;
+import com.hrban.service.base.FcUnitService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

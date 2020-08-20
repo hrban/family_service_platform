@@ -11,7 +11,8 @@ public class TestController {
     /**
      * web交互小测试
      */
-    @RequestMapping("/auth/login")
+    //为了正常的使用不冲突 注释掉这部分
+//    @RequestMapping("/auth/login")
     public String test() {
         System.out.println("test");
         return "";

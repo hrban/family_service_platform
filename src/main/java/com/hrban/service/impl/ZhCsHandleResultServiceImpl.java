@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhCsHandleResult;
 import com.hrban.mapper.ZhCsHandleResultMapper;
-import com.hrban.service.ZhCsHandleResultService;
+import com.hrban.service.base.ZhCsHandleResultService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblVoteDetail;
 import com.hrban.mapper.TblVoteDetailMapper;
-import com.hrban.service.TblVoteDetailService;
+import com.hrban.service.base.TblVoteDetailService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

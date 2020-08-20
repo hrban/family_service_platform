@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblMyadvice;
 import com.hrban.mapper.TblMyadviceMapper;
-import com.hrban.service.TblMyadviceService;
+import com.hrban.service.base.TblMyadviceService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

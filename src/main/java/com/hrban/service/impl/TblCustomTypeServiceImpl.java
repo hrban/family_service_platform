@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblCustomType;
 import com.hrban.mapper.TblCustomTypeMapper;
-import com.hrban.service.TblCustomTypeService;
+import com.hrban.service.base.TblCustomTypeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FySaleContract;
 import com.hrban.mapper.FySaleContractMapper;
-import com.hrban.service.FySaleContractService;
+import com.hrban.service.base.FySaleContractService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblShortcutIcon;
 import com.hrban.mapper.TblShortcutIconMapper;
-import com.hrban.service.TblShortcutIconService;
+import com.hrban.service.base.TblShortcutIconService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

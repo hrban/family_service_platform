@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyVegetationInformation;
 import com.hrban.mapper.WyVegetationInformationMapper;
-import com.hrban.service.WyVegetationInformationService;
+import com.hrban.service.base.WyVegetationInformationService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

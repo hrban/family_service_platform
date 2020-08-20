@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblSysDiagrams;
 import com.hrban.mapper.TblSysDiagramsMapper;
-import com.hrban.service.TblSysDiagramsService;
+import com.hrban.service.base.TblSysDiagramsService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

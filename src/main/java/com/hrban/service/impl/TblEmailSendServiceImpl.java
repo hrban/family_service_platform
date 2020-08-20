@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblEmailSend;
 import com.hrban.mapper.TblEmailSendMapper;
-import com.hrban.service.TblEmailSendService;
+import com.hrban.service.base.TblEmailSendService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

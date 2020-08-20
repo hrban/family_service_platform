@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyNoteManage;
 import com.hrban.mapper.WyNoteManageMapper;
-import com.hrban.service.WyNoteManageService;
+import com.hrban.service.base.WyNoteManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

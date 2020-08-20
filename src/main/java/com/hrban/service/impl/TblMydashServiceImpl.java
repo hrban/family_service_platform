@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblMydash;
 import com.hrban.mapper.TblMydashMapper;
-import com.hrban.service.TblMydashService;
+import com.hrban.service.base.TblMydashService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

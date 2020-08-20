@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyMoneySetting;
 import com.hrban.mapper.FyMoneySettingMapper;
-import com.hrban.service.FyMoneySettingService;
+import com.hrban.service.base.FyMoneySettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

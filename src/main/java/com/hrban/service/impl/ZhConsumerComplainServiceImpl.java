@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhConsumerComplain;
 import com.hrban.mapper.ZhConsumerComplainMapper;
-import com.hrban.service.ZhConsumerComplainService;
+import com.hrban.service.base.ZhConsumerComplainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

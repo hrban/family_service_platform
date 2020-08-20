@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblWorkDate;
 import com.hrban.mapper.TblWorkDateMapper;
-import com.hrban.service.TblWorkDateService;
+import com.hrban.service.base.TblWorkDateService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

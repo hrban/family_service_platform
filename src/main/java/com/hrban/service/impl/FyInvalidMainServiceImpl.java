@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyInvalidMain;
 import com.hrban.mapper.FyInvalidMainMapper;
-import com.hrban.service.FyInvalidMainService;
+import com.hrban.service.base.FyInvalidMainService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

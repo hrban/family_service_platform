@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyFireExercise;
 import com.hrban.mapper.WyFireExerciseMapper;
-import com.hrban.service.WyFireExerciseService;
+import com.hrban.service.base.WyFireExerciseService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

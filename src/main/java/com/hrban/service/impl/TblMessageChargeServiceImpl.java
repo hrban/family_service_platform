@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblMessageCharge;
 import com.hrban.mapper.TblMessageChargeMapper;
-import com.hrban.service.TblMessageChargeService;
+import com.hrban.service.base.TblMessageChargeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyCommitteeMetting;
 import com.hrban.mapper.WyCommitteeMettingMapper;
-import com.hrban.service.WyCommitteeMettingService;
+import com.hrban.service.base.WyCommitteeMettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

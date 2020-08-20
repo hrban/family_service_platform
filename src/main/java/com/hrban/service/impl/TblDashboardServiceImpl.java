@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblDashboard;
 import com.hrban.mapper.TblDashboardMapper;
-import com.hrban.service.TblDashboardService;
+import com.hrban.service.base.TblDashboardService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

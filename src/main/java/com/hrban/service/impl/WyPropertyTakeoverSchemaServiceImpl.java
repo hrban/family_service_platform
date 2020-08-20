@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyPropertyTakeoverSchema;
 import com.hrban.mapper.WyPropertyTakeoverSchemaMapper;
-import com.hrban.service.WyPropertyTakeoverSchemaService;
+import com.hrban.service.base.WyPropertyTakeoverSchemaService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

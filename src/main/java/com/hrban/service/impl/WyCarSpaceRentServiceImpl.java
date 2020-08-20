@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyCarSpaceRent;
 import com.hrban.mapper.WyCarSpaceRentMapper;
-import com.hrban.service.WyCarSpaceRentService;
+import com.hrban.service.base.WyCarSpaceRentService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

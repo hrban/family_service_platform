@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyEstateOutProject;
 import com.hrban.mapper.WyEstateOutProjectMapper;
-import com.hrban.service.WyEstateOutProjectService;
+import com.hrban.service.base.WyEstateOutProjectService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

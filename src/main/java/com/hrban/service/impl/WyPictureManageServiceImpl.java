@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyPictureManage;
 import com.hrban.mapper.WyPictureManageMapper;
-import com.hrban.service.WyPictureManageService;
+import com.hrban.service.base.WyPictureManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

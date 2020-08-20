@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyAskMsgRemindLog;
 import com.hrban.mapper.WyAskMsgRemindLogMapper;
-import com.hrban.service.WyAskMsgRemindLogService;
+import com.hrban.service.base.WyAskMsgRemindLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

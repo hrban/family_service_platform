@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblUserRecord;
 import com.hrban.mapper.TblUserRecordMapper;
-import com.hrban.service.TblUserRecordService;
+import com.hrban.service.base.TblUserRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

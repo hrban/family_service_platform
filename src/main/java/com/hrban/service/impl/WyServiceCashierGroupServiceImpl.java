@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyServiceCashierGroup;
 import com.hrban.mapper.WyServiceCashierGroupMapper;
-import com.hrban.service.WyServiceCashierGroupService;
+import com.hrban.service.base.WyServiceCashierGroupService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

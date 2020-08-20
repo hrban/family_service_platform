@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyPreReceive;
 import com.hrban.mapper.FyPreReceiveMapper;
-import com.hrban.service.FyPreReceiveService;
+import com.hrban.service.base.FyPreReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

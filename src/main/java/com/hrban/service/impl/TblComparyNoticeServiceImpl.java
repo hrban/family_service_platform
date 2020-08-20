@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblComparyNotice;
 import com.hrban.mapper.TblComparyNoticeMapper;
-import com.hrban.service.TblComparyNoticeService;
+import com.hrban.service.base.TblComparyNoticeService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

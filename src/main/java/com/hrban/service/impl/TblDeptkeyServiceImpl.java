@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblDeptkey;
 import com.hrban.mapper.TblDeptkeyMapper;
-import com.hrban.service.TblDeptkeyService;
+import com.hrban.service.base.TblDeptkeyService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

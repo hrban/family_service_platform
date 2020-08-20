@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyHistoryMoneyTemp;
 import com.hrban.mapper.FyHistoryMoneyTempMapper;
-import com.hrban.service.FyHistoryMoneyTempService;
+import com.hrban.service.base.FyHistoryMoneyTempService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

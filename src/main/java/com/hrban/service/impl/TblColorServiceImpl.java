@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblColor;
 import com.hrban.mapper.TblColorMapper;
-import com.hrban.service.TblColorService;
+import com.hrban.service.base.TblColorService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

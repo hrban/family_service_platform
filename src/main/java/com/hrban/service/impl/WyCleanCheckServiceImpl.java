@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyCleanCheck;
 import com.hrban.mapper.WyCleanCheckMapper;
-import com.hrban.service.WyCleanCheckService;
+import com.hrban.service.base.WyCleanCheckService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

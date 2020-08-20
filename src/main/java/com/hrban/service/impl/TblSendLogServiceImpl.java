@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblSendLog;
 import com.hrban.mapper.TblSendLogMapper;
-import com.hrban.service.TblSendLogService;
+import com.hrban.service.base.TblSendLogService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

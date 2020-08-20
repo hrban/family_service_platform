@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhCustomerMembers;
 import com.hrban.mapper.ZhCustomerMembersMapper;
-import com.hrban.service.ZhCustomerMembersService;
+import com.hrban.service.base.ZhCustomerMembersService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

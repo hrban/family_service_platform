@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhRentContract;
 import com.hrban.mapper.ZhRentContractMapper;
-import com.hrban.service.ZhRentContractService;
+import com.hrban.service.base.ZhRentContractService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

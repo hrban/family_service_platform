@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblEmployeeContact;
 import com.hrban.mapper.TblEmployeeContactMapper;
-import com.hrban.service.TblEmployeeContactService;
+import com.hrban.service.base.TblEmployeeContactService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

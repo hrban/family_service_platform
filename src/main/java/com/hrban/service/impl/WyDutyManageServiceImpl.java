@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyDutyManage;
 import com.hrban.mapper.WyDutyManageMapper;
-import com.hrban.service.WyDutyManageService;
+import com.hrban.service.base.WyDutyManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

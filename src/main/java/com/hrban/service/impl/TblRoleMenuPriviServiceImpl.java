@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblRoleMenuPrivi;
 import com.hrban.mapper.TblRoleMenuPriviMapper;
-import com.hrban.service.TblRoleMenuPriviService;
+import com.hrban.service.base.TblRoleMenuPriviService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

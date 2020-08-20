@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblNetdiskUrl;
 import com.hrban.mapper.TblNetdiskUrlMapper;
-import com.hrban.service.TblNetdiskUrlService;
+import com.hrban.service.base.TblNetdiskUrlService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

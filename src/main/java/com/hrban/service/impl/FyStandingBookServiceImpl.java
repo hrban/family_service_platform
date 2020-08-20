@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyStandingBook;
 import com.hrban.mapper.FyStandingBookMapper;
-import com.hrban.service.FyStandingBookService;
+import com.hrban.service.base.FyStandingBookService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

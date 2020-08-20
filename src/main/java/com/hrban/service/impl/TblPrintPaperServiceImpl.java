@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblPrintPaper;
 import com.hrban.mapper.TblPrintPaperMapper;
-import com.hrban.service.TblPrintPaperService;
+import com.hrban.service.base.TblPrintPaperService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

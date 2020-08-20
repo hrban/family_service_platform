@@ -1,0 +1,16 @@
+package com.hrban.service.base;
+
+import com.hrban.bean.WyGoodsInout;
+import com.baomidou.mybatisplus.extension.service.IService;
+
+/**
+ * <p>
+ * 物品出入 服务类
+ * </p>
+ *
+ * @author hrban
+ * @since 2020-08-18
+ */
+public interface WyGoodsInoutService extends IService<WyGoodsInout> {
+
+}

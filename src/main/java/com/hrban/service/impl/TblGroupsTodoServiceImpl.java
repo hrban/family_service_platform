@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblGroupsTodo;
 import com.hrban.mapper.TblGroupsTodoMapper;
-import com.hrban.service.TblGroupsTodoService;
+import com.hrban.service.base.TblGroupsTodoService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

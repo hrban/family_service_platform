@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyEstateTemporary;
 import com.hrban.mapper.FyEstateTemporaryMapper;
-import com.hrban.service.FyEstateTemporaryService;
+import com.hrban.service.base.FyEstateTemporaryService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

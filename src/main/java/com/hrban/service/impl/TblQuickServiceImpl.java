@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblQuick;
 import com.hrban.mapper.TblQuickMapper;
-import com.hrban.service.TblQuickService;
+import com.hrban.service.base.TblQuickService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

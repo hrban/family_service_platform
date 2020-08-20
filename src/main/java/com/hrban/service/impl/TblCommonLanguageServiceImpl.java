@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblCommonLanguage;
 import com.hrban.mapper.TblCommonLanguageMapper;
-import com.hrban.service.TblCommonLanguageService;
+import com.hrban.service.base.TblCommonLanguageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

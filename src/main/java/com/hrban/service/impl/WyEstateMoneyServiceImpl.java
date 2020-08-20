@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyEstateMoney;
 import com.hrban.mapper.WyEstateMoneyMapper;
-import com.hrban.service.WyEstateMoneyService;
+import com.hrban.service.base.WyEstateMoneyService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyVisitManage;
 import com.hrban.mapper.WyVisitManageMapper;
-import com.hrban.service.WyVisitManageService;
+import com.hrban.service.base.WyVisitManageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

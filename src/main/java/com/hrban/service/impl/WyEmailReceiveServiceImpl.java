@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyEmailReceive;
 import com.hrban.mapper.WyEmailReceiveMapper;
-import com.hrban.service.WyEmailReceiveService;
+import com.hrban.service.base.WyEmailReceiveService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

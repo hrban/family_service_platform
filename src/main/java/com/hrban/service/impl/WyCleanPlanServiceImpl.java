@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyCleanPlan;
 import com.hrban.mapper.WyCleanPlanMapper;
-import com.hrban.service.WyCleanPlanService;
+import com.hrban.service.base.WyCleanPlanService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

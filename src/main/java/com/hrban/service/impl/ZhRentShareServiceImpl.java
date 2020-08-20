@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhRentShare;
 import com.hrban.mapper.ZhRentShareMapper;
-import com.hrban.service.ZhRentShareService;
+import com.hrban.service.base.ZhRentShareService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

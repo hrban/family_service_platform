@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.WyGoodsInout;
 import com.hrban.mapper.WyGoodsInoutMapper;
-import com.hrban.service.WyGoodsInoutService;
+import com.hrban.service.base.WyGoodsInoutService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

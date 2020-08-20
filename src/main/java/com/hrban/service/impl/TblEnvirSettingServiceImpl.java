@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblEnvirSetting;
 import com.hrban.mapper.TblEnvirSettingMapper;
-import com.hrban.service.TblEnvirSettingService;
+import com.hrban.service.base.TblEnvirSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblDbSetting;
 import com.hrban.mapper.TblDbSettingMapper;
-import com.hrban.service.TblDbSettingService;
+import com.hrban.service.base.TblDbSettingService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

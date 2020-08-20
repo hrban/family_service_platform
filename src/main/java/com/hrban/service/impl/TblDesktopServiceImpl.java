@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblDesktop;
 import com.hrban.mapper.TblDesktopMapper;
-import com.hrban.service.TblDesktopService;
+import com.hrban.service.base.TblDesktopService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblPositionRecord;
 import com.hrban.mapper.TblPositionRecordMapper;
-import com.hrban.service.TblPositionRecordService;
+import com.hrban.service.base.TblPositionRecordService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

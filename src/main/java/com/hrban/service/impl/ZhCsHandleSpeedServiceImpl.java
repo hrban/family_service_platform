@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.ZhCsHandleSpeed;
 import com.hrban.mapper.ZhCsHandleSpeedMapper;
-import com.hrban.service.ZhCsHandleSpeedService;
+import com.hrban.service.base.ZhCsHandleSpeedService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

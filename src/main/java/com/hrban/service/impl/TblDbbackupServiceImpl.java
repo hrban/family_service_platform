@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.TblDbbackup;
 import com.hrban.mapper.TblDbbackupMapper;
-import com.hrban.service.TblDbbackupService;
+import com.hrban.service.base.TblDbbackupService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

@@ -2,7 +2,7 @@ package com.hrban.service.impl;
 
 import com.hrban.bean.FyPublicBoxUser;
 import com.hrban.mapper.FyPublicBoxUserMapper;
-import com.hrban.service.FyPublicBoxUserService;
+import com.hrban.service.base.FyPublicBoxUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 
